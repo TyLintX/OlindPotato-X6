@@ -5,16 +5,8 @@ import {
 import plugin from '../../lib/plugins/plugin.js'
 import moment from "moment"
 
-/* 
-https://wenxin.baidu.com/moduleApi/ernieVilg //原网站
-https://wenxin.baidu.com/moduleApi/key //创建API KEY
-插件制作:花海里的秋刀鱼(717157592)
-首发群:258623209
-版本:1.4
-更新内容:增加图片尺寸和发多图选择，自定义发图时间，解锁关键词限制,增加检测图片生成任务
-时间：2022.10.9
-*/
-
+  
+  
 
 const client_id = '' //应用的API Key(AK)
 const client_secret = '' //应用的Secret Key(SK)
